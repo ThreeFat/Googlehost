@@ -9,8 +9,7 @@
 > 将host文件下载替换或复制host文件中的内容放入到
 ` C:\Windows\System32\drivers\etc\host `
 
-`
-
+```
 # Localhost (DO NOT REMOVE)
 #127.0.0.1    localhost
 
@@ -3455,4 +3454,4 @@
 # Yahoo End
 
 # Modified hosts end
-`
+```
